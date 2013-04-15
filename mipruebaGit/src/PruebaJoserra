@@ -1,0 +1,12 @@
+public class PruebaGit {
+
+
+	public static void main(String[] args) {
+		System.out.println("EStamos probando con Egit");
+		System.out.println("Subversion, tu ates eras guay");
+		System.out.println("modificado y subido desde eclipse");
+		System.out.println("modificado desde GitHub por David");
+
+	}
+
+}
